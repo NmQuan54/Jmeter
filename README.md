@@ -17,8 +17,7 @@ Sử dụng jMeter để tạo một kịch bản kiểm tra mô phỏng ngườ
 - View Results Tree
 - Aggregate Report
 Kết quả kiểm tra:
-1. Simpli
-# Samples: 100 - Tổng cộng có 100 yêu cầu đã được gửi.
+# 1. Simpli
 - Average: 54 ms - Thời gian phản hồi trung bình là 54 mili giây.
 - Median: 10 ms - Thời gian phản hồi trung vị là 10 mili giây.
 - 90% Line: 839 ms - 90% các yêu cầu hoàn thành trong vòng 839 mili giây.
@@ -28,8 +27,7 @@ Kết quả kiểm tra:
 - Throughput: 8860.25 requests/sec - Số lượng yêu cầu được xử lý mỗi giây.
 - Received KB/sec: 5.77 KB/sec - Lượng dữ liệu nhận được mỗi giây.
 - Sent KB/sec: 381061.46 KB/sec - Lượng dữ liệu gửi đi mỗi giây, giá trị này có vẻ không hợp lý và có thể cần kiểm tra lại.
-2. Resources
-# Samples: 100 - Tổng cộng có 100 yêu cầu đã được gửi.
+# 2. Resources
 - Average: 38 ms - Thời gian phản hồi trung bình là 38 mili giây.
 - Median: 11 ms - Thời gian phản hồi trung vị là 11 mili giây.
 - 90% Line: 718 ms - 90% các yêu cầu hoàn thành trong vòng 718 mili giây.
@@ -39,8 +37,7 @@ Kết quả kiểm tra:
 - Throughput: 5557.92 requests/sec - Số lượng yêu cầu được xử lý mỗi giây.
 - Received KB/sec: 9.53 KB/sec - Lượng dữ liệu nhận được mỗi giây.
 - Sent KB/sec: 233742.0 KB/sec - Lượng dữ liệu gửi đi mỗi giây, giá trị này có vẻ không hợp lý và có thể cần kiểm tra lại.
-3. Business
-# Samples: 100 - Tổng cộng có 100 yêu cầu đã được gửi.
+# 3. Business
 - Average: 157 ms - Thời gian phản hồi trung bình là 157 mili giây.
 - Median: 29 ms - Thời gian phản hồi trung vị là 29 mili giây.
 - 90% Line: 1563 ms - 90% các yêu cầu hoàn thành trong vòng 1563 mili giây.
@@ -50,8 +47,7 @@ Kết quả kiểm tra:
  -Throughput: 35613.86 requests/sec - Số lượng yêu cầu được xử lý mỗi giây.
 - Received KB/sec: 9.03 KB/sec - Lượng dữ liệu nhận được mỗi giây.
 - Sent KB/sec: 1569973.05 KB/sec - Lượng dữ liệu gửi đi mỗi giây, giá trị này có vẻ không hợp lý và có thể cần kiểm tra lại.
-4. TOTAL
-# Samples: 300 - Tổng cộng có 300 yêu cầu đã được gửi.
+# 4. TOTAL
 - Average: 83 ms - Thời gian phản hồi trung bình là 83 mili giây.
 -  Median: 10 ms - Thời gian phản hồi trung vị là 10 mili giây.
 - 90% Line: 1563 ms - 90% các yêu cầu hoàn thành trong vòng 1563 mili giây.
